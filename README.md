@@ -2,6 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluefox182&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 
 <!--
 **Bluefox182/Bluefox182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
