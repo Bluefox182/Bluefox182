@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Fernando Galdos a passionate self-taught FrontEnd Web Developer from Lima-Peru
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark)
 
