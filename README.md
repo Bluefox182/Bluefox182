@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Fernando Galdos a passionate self-taught FrontEnd Web Developer from Lima-Peru
+I'm Fernando Galdos a passionate self-taught FrontEnd Web Developer, very good at working and collaborating with people. I'm looking for new challenges and opportunities. Currently, I am studying at Platzi.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark)
 
