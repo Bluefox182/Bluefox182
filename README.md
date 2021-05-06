@@ -6,11 +6,25 @@ Currently, I am studying at Platzi.
 - 💬 Ask me about anything <a href="https://github.com/Bluefox182/Bluefox182/issues">here</a>
 - 🤔 I’m looking for new challenges and opportunities
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark)
+🔭 Languages, Frameworks and Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bluefox182&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white">
+ </br>
+  </br>
+</p>
 
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+## My Github Public Stats
+<p align="center">
+  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluefox182&layout=compact&theme=onedark" />
+   </br>
+  </br>
+</p>
+
+
+
+
 
 <!--
 **Bluefox182/Bluefox182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
