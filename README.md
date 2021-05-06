@@ -16,8 +16,8 @@ Currently, I am studying at Platzi.
 
 ## My Github Public Stats
 <p align="center">
-  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluefox182&layout=compact&theme=onedark" />
+  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluefox182&layout=compact&theme=onedark" />
    </br>
   </br>
 </p>
