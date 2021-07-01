@@ -1,6 +1,5 @@
 ## Hi there, I'm Bluefox182 👋
-I'm Fernando Galdos a Creative, Innovative, dedicated and a passionate self-taught FrontEnd Web Developer, very good at working and collaborating with people with a keen eye for detail, and a determination to deliver the very highest quality.. I'm looking for new challenges and opportunities. 
-Currently, I am studying at Platzi.
+I'm Fernando Galdos a Creative, Innovative, dedicated and a passionate self-taught FrontEnd Web Developer, very good at working and collaborating with people with a keen eye for detail, and a determination to deliver the very highest quality.. I'm looking for new challenges and opportunities.
 
 - ❤️ I love writting code and reading about it
 - 💬 Ask me about anything <a href="https://github.com/Bluefox182/Bluefox182/issues">here</a>
