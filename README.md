@@ -1,5 +1,9 @@
 ## Hi there, I'm Bluefox182 👋
-I'm Fernando Galdos a Creative, Innovative, dedicated and a passionate self-taught FrontEnd Web Developer, very good at working and collaborating with people with a keen eye for detail, and a determination to deliver the very highest quality.. I'm looking for new challenges and opportunities.
+Hello, my name is Fernando! I am a Marketing-oriented Business Administrator. I decided to make a big change and follow what I am passionate about: Web Development.
+
+I made the decision to study Front-End Engineer at Codecademy, here I was able to improve my programming skills and use the necessary tools for it. I am proficient at JavaScript and React.Js. The most valuable thing I have learned is to work as a team and never stop learning.
+
+I consider myself creative, innovative, dedicated and passionate about self learning. I invite you to download my resume and follow me on my social networks.
 
 - ❤️ I love writting code and reading about it
 - 💬 Ask me about anything <a href="https://github.com/Bluefox182/Bluefox182/issues">here</a>
