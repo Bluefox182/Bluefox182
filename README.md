@@ -1,7 +1,7 @@
 <img width=100% src="https://media.giphy.com/media/9dm3z5sDRVYq5riGC3/giphy.gif" alt="Git-Hub-Hero04" border="0" />
 
 ---
-<h2>Who am I?</h2>
+<h1>Who am I?</h1>
 
 I'm Fernando 🦊
 
@@ -16,7 +16,7 @@ I'm Fernando 🦊
 > **#FunFact: I love coffee, read and code with music** 🎧
 
 ---
-<h2>My Hard Skills</h2>
+<h1>My Hard Skills</h1>
 
 <table><tr><td valign="top" width="50%">
 
@@ -57,9 +57,9 @@ I'm Fernando 🦊
 
 </td></tr></table>  
 
-
 ---
-<h2> My GitHub Stats </h2>
+
+<h1> My GitHub Stats </h1>
 
 <table><tr><td valign="top" width="50%">
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
@@ -71,7 +71,7 @@ I'm Fernando 🦊
 
 ---
 
-<h2>Contact Me</h2>
+<h1>Contact Me</h1>
 
 <div align="center">
 <a href="https://github.com/https://github.com/Bluefox182" target="_blank">
