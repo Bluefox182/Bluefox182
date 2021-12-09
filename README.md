@@ -1,49 +1,93 @@
-## Hi there, I'm Bluefox182 👋
-Hello, my name is Fernando! I am a Marketing-oriented Business Administrator. I decided to make a big change and follow what I am passionate about: Web Development.
+<img width=100% src="https://media.giphy.com/media/9dm3z5sDRVYq5riGC3/giphy.gif" alt="Git-Hub-Hero04" border="0" />
 
-I made the decision to study Front-End Engineer at Codecademy, here I was able to improve my programming skills and use the necessary tools for it. I am proficient at JavaScript and React.Js. The most valuable thing I have learned is to work as a team and never stop learning.
+---
+<h2>Who am I?</h2>
 
-I consider myself creative, innovative, dedicated and passionate about self learning. I invite you to download my resume and follow me on my social networks.
+I'm Fernando 🦊
 
-- ❤️ I love writting code and reading about it
-- 💬 Ask me about anything <a href="https://github.com/Bluefox182/Bluefox182/issues">here</a>
-- 🤔 I’m looking for new challenges and opportunities
+⚡ I'm a Full-Stack Software Engineer
 
-🔭 Languages, Frameworks and Tools
+⚡ You can find me working with JavaScript, React, Node, Express and MongoDB
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/-React%20JS-61DAFB?style=flat&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"> <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white">
- </br>
-  </br>
-</p>
+⚡ I love fixing bugs and complex problems.
 
-## My Github Public Stats
-<p align="center">
-  <img align="center" src = "https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&theme=onedark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluefox182&layout=compact&theme=onedark" />
-   </br>
-  </br>
-</p>
+⚡ I consider myself creative, innovative, dedicated and passionate learning new technologies.
 
-## Let's work together
+> **#FunFact: I love coffee, read and code with music** 🎧
 
-[<img align="center" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/bluefox182) 
-[<img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fernandogaldos/)
+---
+<h2>My Hard Skills</h2>
+
+<table><tr><td valign="top" width="50%">
 
 
 
-<!--
-**Bluefox182/Bluefox182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Frontend</h3>
+  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+</div>
 
-Here are some ideas to get you started:
+</td><td valign="top" width="50%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... new challenges and opportunities
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<h3 align="center">Backend</h3>
+  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
+</div>
+
+
+</td></tr></table>  
+
+
+---
+<h2> My GitHub Stats </h2>
+
+<table><tr><td valign="top" width="50%">
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Bluefox182&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+
+</td><td valign="top" width="50%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bluefox182&hide_border=true&layout=compact" align="center" style="width: 100% height: 100%"/></div>  
+  
+</td></tr></table> 
+
+---
+
+<h2>Contact Me</h2>
+
+<div align="center">
+<a href="https://github.com/https://github.com/Bluefox182" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/https://twitter.com/bluefox182" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fernandogaldos/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
+---
+
+
+
+
 
