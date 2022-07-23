@@ -70,6 +70,9 @@ I'm Fernando 🦊
 </td></tr></table> 
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bluefox182&theme=react&ring=020BDD)](https://git.io/streak-stats)
+
+---
 
 <h1>Contact Me</h1>
 
