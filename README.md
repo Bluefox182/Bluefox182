@@ -17,6 +17,8 @@ I'm Fernando 🦊
 
 ⚡ I consider myself creative, innovative, dedicated and passionate learning new technologies.
 
+⚡ Check out my Portfolio on [bluefox182.com](https://bluefox182.com)
+
 > **#FunFact: I love coffee, read and code with music** 🎧
 
 ---
