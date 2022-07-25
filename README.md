@@ -80,7 +80,7 @@ I'm Fernando 🦊
 
 ---
 
-<h1>Contact Me</h1>
+<h1>Connect With Me</h1>
 
 <div align="center">
 <a href="https://github.com/https://github.com/Bluefox182" target="_blank">
